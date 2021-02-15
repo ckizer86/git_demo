@@ -8,4 +8,4 @@
 8. touch steps.txt to add a text file called steps to write steps taken
 9. git add . to stage all files
 10. git commit -m "add steps.txt"
-11. git push
+11. git push https://github.com/ckizer86/git_demo
