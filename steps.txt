@@ -1,0 +1,11 @@
+1. went to remote link and selected "fork"
+2. created a git repo on my computer by creating a directory and typing git init within the directory
+3. typed git pull https://github.com/ckizer86/git_demo
+4. opened the demo_index.html file and added a paragraph
+5. git add . to stage all files 
+6. git commit -m "added a paragraph" to commit and add a message to the commit 
+7. git pull https://github.com/ckizer86/git_demo to make sure all files are updated
+8. touch steps.txt to add a text file called steps to write steps taken
+9. git add . to stage all files
+10. git commit -m "add steps.txt"
+11. git push
